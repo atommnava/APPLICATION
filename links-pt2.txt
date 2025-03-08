@@ -1,0 +1,13 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head>
+    <title>My First web site</title>
+</head>
+<body>
+    <a href="page2.html" target=_self title="This takes you to google">
+        Go to page 2
+    </a>
+</body>
+</html>

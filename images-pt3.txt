@@ -1,0 +1,14 @@
+<!DOCTYPE html> 
+
+<html> 
+<head>
+    <title>My First web site</title>
+</head>
+<body>
+
+    <a href="https://www.google.com.mx/?client=safari&channel=iphone_bm" target=_self>
+        <img src="cuadro.png" width="300" height="300" alt="Photo" title="SQUARE">
+    </a>
+
+</body>
+</html>
